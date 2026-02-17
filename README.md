@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm marekonn</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">A passionate Developer & Desinger from German / Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekonn&label=Profile%20views&color=590eb4&style=plastic" alt="marekonn" /> </p>
 
