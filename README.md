@@ -1,5 +1,5 @@
 
-![MasterHead](https://cdn.discordapp.com/attachments/1456720737267220570/1473387731811045500/image.png?ex=699606c1&is=6994b541&hm=c5a6b40ce454531c427c3c60f053a5ce229d5be6b4b3da964dde24704920bd3e&)
+![MasterHead](https://cdn.discordapp.com/attachments/1456720737267220570/1473388816256471235/svgxmlutf83Csvg20width3D2212002220height3D223002220viewBox3D220200201200203002220xmlns3D22http3A2F2Fwww.w3.png?ex=699607c4&is=6994b644&hm=53c98a0d29c803deb96805de3aca93d93d835a0fcecd53fa0bf05144d72b8509&)
 
 
 <h1 align="center">Hi 👋, I'm marekonn</h1>
