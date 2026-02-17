@@ -1,76 +1,23 @@
-# 👋 Merhaba, ben [Ad Soyad / Nickname]
+<h1 align="center">Hi 👋, I'm marekonn</h1>
+<h3 align="center">A passionate</h3>
 
-💻 Full-Stack Developer | 🌐 Web & Yazılım Çözümleri | 🚀 Proje Odaklı
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrekonn&label=Profile%20views&color=0e75b6&style=flat" alt="mrekonn" /> </p>
 
-Kısa, net ve profesyonel bir özet yaz:
-Modern web teknolojileriyle ölçeklenebilir, performanslı ve estetik projeler geliştiriyorum.  
-Gerçek problemleri çözen, temiz kod prensiplerine sahip uygulamalar üretmeyi seviyorum.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrekonn" alt="mrekonn" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🧠 Hakkımda
-- 🔭 Şu anda **[aktif proje / alan]** üzerinde çalışıyorum  
-- 🌱 **[öğrendiğin teknoloji]** öğreniyorum  
-- ⚡ İlgi alanlarım: **UI/UX, performans, otomasyon, güvenlik**  
-- 🎯 Hedefim: **kaliteli ürünler üretmek ve sürekli gelişmek**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/marekonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marekonn" height="30" width="40" /></a>
+<a href="https://discord.gg/marekonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marekonn" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🛠️ Kullandığım Teknolojiler
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrekonn&show_icons=true&locale=en&layout=compact" alt="mrekonn" /></p>
 
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React, Next.js, Tailwind CSS
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrekonn&show_icons=true&locale=en" alt="mrekonn" /></p>
 
-### Backend
-- Node.js, Express
-- REST API, JWT, Authentication
-
-### Veritabanı
-- MongoDB, PostgreSQL
-- Firebase
-
-### Diğer
-- Git & GitHub
-- Docker (temel)
-- Linux / VPS
-
----
-
-## 📌 Öne Çıkan Projeler
-
-### 🔹 [Proje Adı]
-**Açıklama:**  
-Kısa ama net: Bu proje ne yapıyor, kime hitap ediyor?
-
-**Teknolojiler:**  
-`React • Node.js • MongoDB`
-
-🔗 Repo: https://github.com/kullaniciadi/proje
-
----
-
-### 🔹 [Proje Adı 2]
-**Açıklama:**  
-Gerçek hayatta neyi çözüyor?
-
-**Teknolojiler:**  
-`Next.js • Firebase • Tailwind`
-
-🔗 Repo: https://github.com/kullaniciadi/proje2
-
----
-
-## 📊 GitHub İstatistikleri
-> (Burayı istersen sonra otomatik statlarla süsleriz)
-
-- Aktif projeler
-- Düzenli commit
-- Temiz ve okunabilir kod
-
----
-
-## 📫 İletişim
-- 🌐 Website: https://marekonn.com
-- 📧 Mail: marekondev@gmail.com
-- 📸 Instagram: @marekonndev
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrekonn&" alt="mrekonn" /></p>
